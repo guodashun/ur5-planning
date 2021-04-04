@@ -5,7 +5,7 @@
     "output_max": 1,
     "output_min": -1,
     "kp": 3,
-    "velocity_limits": [-1.570796326, 1.570796326],
+    "velocity_limits": [-1,1],
     "interpolation": null,
     "ramp_ratio": 0.2
 }
